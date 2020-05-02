@@ -1,0 +1,20 @@
+﻿  Building 'FireWall2003' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  IpFilter.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  LockList.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  RuleManager.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  miniport.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  Firewall.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  protocol.cpp
+j:\project\soui\test\firwall\util\memorybase.h(7): warning C4595: “operator delete”: 非成员运算符 new 或 delete 函数均不可声明为内联函数
+  正在生成代码...
+  FireWall2003.vcxproj -> J:\Project\SOUI\TEST\Firwall\Debug\passthru.sys
+  Done Adding Additional Store
+  Successfully signed: J:\Project\SOUI\TEST\Firwall\Debug\passthru.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

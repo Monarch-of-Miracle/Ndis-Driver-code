@@ -1,0 +1,18 @@
+﻿  Building 'Ndis6Firewall' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Ndis6Firewall.inf
+  Stamping [Version] section with DriverVer=11/25/2018,18.49.57.765
+  Ndis6Firewall.vcxproj -> J:\Project\SOUI\TEST\Firwall\x64\Debug\Ndis6Firewall.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  J:\Project\SOUI\TEST\Firwall\x64\Debug\Ndis6Firewall\ndis6firewall.cat
+  Done Adding Additional Store
+  Successfully signed: J:\Project\SOUI\TEST\Firwall\x64\Debug\Ndis6Firewall\ndis6firewall.cat
+  

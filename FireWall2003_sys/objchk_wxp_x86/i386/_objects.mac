@@ -1,0 +1,22 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\miniport.obj \
+ $(OBJ_PATH)\$O\firewall.obj \
+ $(OBJ_PATH)\$O\protocol.obj \
+ $(OBJ_PATH)\$O\ipfilter.obj \
+ $(OBJ_PATH)\$O\locklist.obj \
+ $(OBJ_PATH)\$O\rulemanager.obj \
+
+
+_RES_FILE=$(OBJ_PATH)\$O\firewall.res
+
+
+
+# lowercased
+BASEDIR=c:\winddk\7600.16385.1
+OBJECT_ROOT=c:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=j:\project\soui\test\firwall\firewall2003_sys
+OBJ_PATH=j:\project\soui\test\firwall\firewall2003_sys
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
